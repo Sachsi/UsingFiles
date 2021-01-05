@@ -11,3 +11,16 @@ C:\Users\sachsetobias\Desktop\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.cspr
 C:\Users\sachsetobias\Desktop\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.dll
 C:\Users\sachsetobias\Desktop\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.pdb
 C:\Users\sachsetobias\Desktop\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.genruntimeconfig.cache
+D:\Dokumente\C#_Programming\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.exe
+D:\Dokumente\C#_Programming\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.deps.json
+D:\Dokumente\C#_Programming\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.runtimeconfig.json
+D:\Dokumente\C#_Programming\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.runtimeconfig.dev.json
+D:\Dokumente\C#_Programming\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.dll
+D:\Dokumente\C#_Programming\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.pdb
+D:\Dokumente\C#_Programming\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.csprojAssemblyReference.cache
+D:\Dokumente\C#_Programming\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.AssemblyInfoInputs.cache
+D:\Dokumente\C#_Programming\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.AssemblyInfo.cs
+D:\Dokumente\C#_Programming\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.csproj.CoreCompileInputs.cache
+D:\Dokumente\C#_Programming\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.dll
+D:\Dokumente\C#_Programming\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.pdb
+D:\Dokumente\C#_Programming\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.genruntimeconfig.cache
