@@ -8,23 +8,28 @@ namespace UsingFiles
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var files = FindFiles("stores");
+            Console.WriteLine(Directory.GetCurrentDirectory());
+            foreach (var file in files)
+            {
+                Console.WriteLine(file);
+            }
         }
-        
+
         static IEnumerable<string> FindFiles(string folderName)
         {
             List<string> salesFiles = new List<string>();
-
+    
             var foundFiles = Directory.EnumerateFiles(folderName, "*", SearchOption.AllDirectories);
-
-            foreach(var file in foundFiles)
+    
+            foreach (var file in foundFiles)
             {
-                //The file name will contain the ful path, so only check the end of it
-                if(file.EndsWith("sales.jason"))
+                if (file.EndsWith("sales.json"))
                 {
                     salesFiles.Add(file);
                 }
             }
+    
             return salesFiles;
         }
     }

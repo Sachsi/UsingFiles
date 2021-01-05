@@ -1,0 +1,13 @@
+C:\Users\sachsetobias\Desktop\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.exe
+C:\Users\sachsetobias\Desktop\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.deps.json
+C:\Users\sachsetobias\Desktop\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.runtimeconfig.json
+C:\Users\sachsetobias\Desktop\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.runtimeconfig.dev.json
+C:\Users\sachsetobias\Desktop\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.dll
+C:\Users\sachsetobias\Desktop\UsingFiles\bin\Debug\netcoreapp3.1\UsingFiles.pdb
+C:\Users\sachsetobias\Desktop\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.csprojAssemblyReference.cache
+C:\Users\sachsetobias\Desktop\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.AssemblyInfoInputs.cache
+C:\Users\sachsetobias\Desktop\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.AssemblyInfo.cs
+C:\Users\sachsetobias\Desktop\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.csproj.CoreCompileInputs.cache
+C:\Users\sachsetobias\Desktop\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.dll
+C:\Users\sachsetobias\Desktop\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.pdb
+C:\Users\sachsetobias\Desktop\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.genruntimeconfig.cache
