@@ -8,13 +8,15 @@ namespace UsingFiles
     {
         static void Main(string[] args)
         {
-            var files = FindFiles("stores");
-            string docPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-            string userPath = $"C:{Path.DirectorySeparatorChar}User";
+            string currentPath = Directory.GetCurrentDirectory();
+            string storesDirectory = Path.Combine(currentPath, "stores");
+            //string docPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            //string userPath = $"C:{Path.DirectorySeparatorChar}User";
+            var files = FindFiles(storesDirectory);
 
-            Console.WriteLine(Directory.GetCurrentDirectory());
-            Console.WriteLine($"This is the path to My Documents: " + docPath);
-            Console.WriteLine("This is the user path: " + userPath);
+            Console.WriteLine(currentPath);
+            //Console.WriteLine($"This is the path to My Documents: " + docPath);
+            //Console.WriteLine("This is the user path: " + userPath);
             foreach (var file in files)
             {
                 Console.WriteLine(file);

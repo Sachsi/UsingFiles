@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Tobias\\.nuget\\packages\\": {}
+    "C:\\Users\\sachsetobias\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dokumente\\C#_Programming\\UsingFiles\\UsingFiles.csproj",
+      "projectUniqueName": "C:\\Users\\sachsetobias\\Desktop\\UsingFiles\\UsingFiles.csproj",
       "projectName": "UsingFiles",
-      "projectPath": "D:\\Dokumente\\C#_Programming\\UsingFiles\\UsingFiles.csproj",
-      "packagesPath": "C:\\Users\\Tobias\\.nuget\\packages\\",
-      "outputPath": "D:\\Dokumente\\C#_Programming\\UsingFiles\\obj\\",
+      "projectPath": "C:\\Users\\sachsetobias\\Desktop\\UsingFiles\\UsingFiles.csproj",
+      "packagesPath": "C:\\Users\\sachsetobias\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sachsetobias\\Desktop\\UsingFiles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tobias\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\sachsetobias\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
