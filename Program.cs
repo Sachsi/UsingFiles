@@ -10,23 +10,21 @@ namespace UsingFiles
         {
             string currentPath = Directory.GetCurrentDirectory();
             string storesDirectory = Path.Combine(currentPath, "stores");
+            string salesTotalsDir = Path.Combine(currentPath, "salesTotalDir");
+
+            Directory.CreateDirectory(salesTotalsDir);
             //string docPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
             //string userPath = $"C:{Path.DirectorySeparatorChar}User";
-            var files = FindFiles(storesDirectory);
+            var salesfiles = FindFiles(storesDirectory);
 
+            File.WriteAllText(Path.Combine(salesTotalsDir,"totals.txt"), String.Empty);
             Console.WriteLine(currentPath);
-            //Console.WriteLine($"This is the path to My Documents: " + docPath);
-            //Console.WriteLine("This is the user path: " + userPath);
-            foreach (var file in files)
-            {
-                Console.WriteLine(file);
-            }
-
-            string fileName = $"stores{Path.DirectorySeparatorChar}201{Path.DirectorySeparatorChar}sales{Path.DirectorySeparatorChar}sales.json";
-
-            FileInfo info = new FileInfo(fileName);
-
-            Console.WriteLine($"Full Name: {info.FullName}{Environment.NewLine}Directory: {info.Directory}{Environment.NewLine}Extension: {info.Extension}{Environment.NewLine}Create Date: {info.CreationTime}"); // And many more
+ 
+            //string fileName = $"stores{Path.DirectorySeparatorChar}201{Path.DirectorySeparatorChar}sales{Path.DirectorySeparatorChar}sales.json";
+//
+            //FileInfo info = new FileInfo(fileName);
+//
+            //Console.WriteLine($"Full Name: {info.FullName}{Environment.NewLine}Directory: {info.Directory}{Environment.NewLine}Extension: {info.Extension}{Environment.NewLine}Create Date: {info.CreationTime}"); // And many more
         }
 
         static IEnumerable<string> FindFiles(string folderName)
