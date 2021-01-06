@@ -24,3 +24,5 @@ D:\Dokumente\C#_Programming\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.csproj
 D:\Dokumente\C#_Programming\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.dll
 D:\Dokumente\C#_Programming\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.pdb
 D:\Dokumente\C#_Programming\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.genruntimeconfig.cache
+C:\Users\sachsetobias\Desktop\UsingFiles\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sachsetobias\Desktop\UsingFiles\obj\Debug\netcoreapp3.1\UsingFiles.csproj.CopyComplete
