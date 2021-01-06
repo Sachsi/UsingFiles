@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HrQvnBxgO4NvIv+/d952Zre1l81qHn13uUOFgFFXVN7mErBVDzSg+jfxH60AA6d/DGPn0290Pf42tQpbnKZhbg==",
+  "dgSpecHash": "X1K5nJOsDHuNJoT1hs4beBYsQJ89BLGib4SgOQqcrAHTCjtI/9dsfVF4+ejKAAZMnqT9/H0KYXOaFmXFulPuVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\sachsetobias\\Desktop\\UsingFiles\\UsingFiles.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sachsetobias\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
